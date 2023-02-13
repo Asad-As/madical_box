@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "808422468031",
+    "firebase_url": "https://esp32-8db74-default-rtdb.firebaseio.com",
+    "project_id": "esp32-8db74",
+    "storage_bucket": "esp32-8db74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808422468031:android:911c803d63e92d5414990a",
+        "android_client_info": {
+          "package_name": "com.example.madical_box"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808422468031-9pf2v5p37jmutp6qltki723i1od0hdu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8K4FlyzvrWTXw5xMrXeDrFGvnDPQOCkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808422468031-9pf2v5p37jmutp6qltki723i1od0hdu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

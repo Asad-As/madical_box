@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>808422468031-buk922b8c7e12j3jmh59u14rnj6qm207.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.808422468031-buk922b8c7e12j3jmh59u14rnj6qm207</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDe69jdCceFdRJA7aNOCocx9gcYKjii8cM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>808422468031</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.madicalBox</string>
+	<key>PROJECT_ID</key>
+	<string>esp32-8db74</string>
+	<key>STORAGE_BUCKET</key>
+	<string>esp32-8db74.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:808422468031:ios:7aece919a7b8303c14990a</string>
+	<key>DATABASE_URL</key>
+	<string>https://esp32-8db74-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
